@@ -95,13 +95,6 @@
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsaiprasanna-056&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsaiprasanna-056&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vsaiprasanna-056&hide_border=true" alt="GitHub Streak"/>
